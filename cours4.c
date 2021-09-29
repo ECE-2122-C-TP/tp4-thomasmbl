@@ -101,11 +101,6 @@ int etagePyramide(int a) {
     return i;
 }
 
-// Somme a sur b 
-int somme(int a, int b) {
-    a += b;
-    return a;
-}
 
 
 // Calucule la moyenne des notes
