@@ -67,7 +67,7 @@ int exercice10bis() {
         entier=saisirEntier();
         if (entier <0)
             break;
-        s=somme(s,entier);
+        s+=entier;
         i++;
     }
     if(i>0) {
